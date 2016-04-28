@@ -1,2 +1,3 @@
 I like dog.
-dog is human's good firends;
+Dog is human's good firends;
+I have a dog. he name is peter.
